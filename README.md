@@ -21,13 +21,10 @@ Student login :
 
 Admin Login :              
 
-1.View Student detail 
+1.View Student Detail 
 2.Update Student Detail 
 3.Remove Student 
-4. Set Student Exam Marks 
+4.Set Student Exam Marks 
 5.LogOut
-
-designe in 3 hours 
-Now  back-end development on going.
 
  #management #project #java #change
